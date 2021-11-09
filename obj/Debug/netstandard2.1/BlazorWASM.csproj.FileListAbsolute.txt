@@ -352,6 +352,6 @@ C:\Users\abby.tau\Downloads\Blazor-Project\BlazorWASM\obj\Debug\netstandard2.1\B
 C:\Users\abby.tau\Downloads\Blazor-Project\BlazorWASM\obj\Debug\netstandard2.1\BlazorWASM.pdb
 C:\Users\abby.tau\Downloads\Blazor-Project\BlazorWASM\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Read.razor.g.cs
 C:\Users\abby.tau\Downloads\Blazor-Project\BlazorWASM\obj\Debug\netstandard2.1\Razor\Pages\Read.razor.g.cs
-C:\Users\abby.tau\Downloads\Blazor-Project\BlazorWASM\obj\Debug\netstandard2.1\integrity\oeUHyO_r494tkWPDd8E4X_3DtSCOcLg4AGthVM8l7RE=.hash
-C:\Users\abby.tau\Downloads\Blazor-Project\BlazorWASM\obj\Debug\netstandard2.1\integrity\U1OgxeD477Ok5ksbJsp-MElwhDRxw_2t-xvn0X5rDG8=.hash
-C:\Users\abby.tau\Downloads\Blazor-Project\BlazorWASM\obj\Debug\netstandard2.1\integrity\BB4FHghzdQiMBcSUF-nzbDojPeF6CcbIomp_XR-9sPE=.hash
+C:\Users\abby.tau\Downloads\Blazor-Project\BlazorWASM\obj\Debug\netstandard2.1\integrity\xrNPu_WLmJ2dDCv-3U7AyC9EFGE3Qs3bCS0uUpc85ow=.hash
+C:\Users\abby.tau\Downloads\Blazor-Project\BlazorWASM\obj\Debug\netstandard2.1\integrity\BT1XNQYvuxYiRIv7k2zPyr3F1ySvJmKyFHVIVrhijIE=.hash
+C:\Users\abby.tau\Downloads\Blazor-Project\BlazorWASM\obj\Debug\netstandard2.1\integrity\dQEjj0ZcwiV5jzptfETIJvmd0lfDan1doOS5hz7wpSo=.hash

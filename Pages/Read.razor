@@ -1,6 +1,6 @@
 @page "/Read"
 @using System.Text.Json
-<h1 class="bg-info text-white">Get Users</h1>
+<h1 class="bg-info text-white">Get Users from https://jsonplaceholder.typicode.com/ dummy API</h1>
  
  
 <table class="table table-sm table-striped table-bordered m-2">
@@ -43,6 +43,7 @@
             using (var response = await httpClient.GetAsync("https://jsonplaceholder.typicode.com/users"))
             {
                 string apiResponse = await response.Content.ReadAsStringAsync();
+                Console.WriteLine(apiResponse);
                 users = JsonSerializer.Deserialize<List<UserModel>>(apiResponse);
             }
         }
